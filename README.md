@@ -20,3 +20,4 @@ These can be used to replace your .dialogrc, or you can `call` them by setting t
 .dialogrc_whiptail = Even though dialog and whiptail are very similar, they are not the same. This theme is my best attempt to replicate the default colors/theme of whiptail.
 .dialogrc_monochrome = This is my first `unique` theme, it is a GREEN MONOCHROME theme for dialog.
 .dialogrc_cyan = I did not make this theme, credit goes to https://cp737.net/blog/cyan-theme-for-dialog-rc
+
